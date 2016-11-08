@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "屏幕截图2005", "屏幕截图2005\屏幕截图2005.csproj", "{63ABA1B8-5B42-4564-9D66-A1A931A3B9E0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "屏幕截图2005Setup", "屏幕截图2005Setup\屏幕截图2005Setup.vdproj", "{67BB96B3-DC58-4E74-85A6-2DD35D3C3B88}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63ABA1B8-5B42-4564-9D66-A1A931A3B9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63ABA1B8-5B42-4564-9D66-A1A931A3B9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63ABA1B8-5B42-4564-9D66-A1A931A3B9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63ABA1B8-5B42-4564-9D66-A1A931A3B9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BB96B3-DC58-4E74-85A6-2DD35D3C3B88}.Debug|Any CPU.ActiveCfg = Debug
+		{67BB96B3-DC58-4E74-85A6-2DD35D3C3B88}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
